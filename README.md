@@ -6,24 +6,15 @@
 <h5 align="center">
   <code>
     <a href="https://www.linkedin.com/in/i%C5%9F%C4%B1l-suba%C5%9Fi-a078a9166/" title="LinkedIn Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.hackerrank.com/zumrudu_anka" title="HackerRank Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/hackerrank.png"> HackerRank</a></code>
+  <code><a href="https://www.hackerrank.com/isil_subasi19" title="HackerRank Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/hackerrank.png"> HackerRank</a></code>
 </h5>
 <br>
 <p align="center">
   Hi, I'm Işıl SUBAŞİ, Computer Engineer & Software Developer from Turkey
   <br>
-  <br>
-  🔬 I'm currently studying for a master's degree in Atatürk University Computer Engineering Department
-  <br>
-  🎓 I graduated from Black Sea Technical University Computer Engineering Department
-  <br>
-  🎓 I graduated from Erzurum İbrahim Hakkı Science High School
+  🎓 I graduated from Atatürk University Computer Engineering Departmentl
   <br>
   💻 I love writing code and learn anythings about it
-  <br>
-  📚 I’m currently learning how to build E-Commerce Website with Django
-  <br>
-  💬 Ask me anything about from <a href="https://github.com/zumrudu-anka/zumrudu-anka/issues" title="Issues">Here</a>
   <br>
   📫 How to reach me: <a href="mailto: isil.subasi19@gmail.com">isil.subasi19@gmail.com</a>
 </p>
